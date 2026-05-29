@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Directory -Recurse -Depth 2 e:\\\\zg6\\\\zg6-flink-warehouse)",
+      "Bash(Select-Object FullName)",
+      "Bash(Get-ChildItem -Name -Depth 0)",
+      "Bash(Rename-Item \"e:\\\\zg6\\\\zg6-flink-warehouse\\\\实时数仓项目面试口述版.md\" \"实时数仓项目面试口述版-详细参考.md\")",
+      "Bash(Get-ChildItem -Name -Recurse -Depth 2)",
+      "Bash(Select-Object -First 100)",
+      "Bash(Get-ChildItem -Path \"E:\\\\zg6\\\\zg6-flink-warehouse\" -Depth 1)",
+      "Bash(Format-Table Name, LastWriteTime -AutoSize)"
+    ]
+  }
+}
