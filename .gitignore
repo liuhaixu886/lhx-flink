@@ -38,5 +38,8 @@ build/
 ### VS Code ###
 .vscode/
 
+### Project ###
+工单文档/
+
 ### Mac OS ###
 .DS_Store
