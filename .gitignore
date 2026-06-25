@@ -1,4 +1,7 @@
 target/
+dashboard/frontend/node_modules/
+dashboard/frontend/dist/
+dashboard/**/*.log
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/

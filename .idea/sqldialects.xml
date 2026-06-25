@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/src/main/resources/sql/ads_doris.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/sql/dws_doris.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/sql/table_process_dim.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/sql/Ads/ads_trade_province_order.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/sql/Ads/ads_trade_sku_order.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/sql/Ads/ads_traffic_page_view.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/sql/DWS/dws_trade_province_order_window.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/sql/DWS/dws_trade_sku_order_window.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/sql/DWS/dws_traffic_page_view_window.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/sql/Mysql配置表/table_process_dim.sql" dialect="MySQL" />
   </component>
 </project>
